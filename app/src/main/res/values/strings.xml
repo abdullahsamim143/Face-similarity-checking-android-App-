@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="first_img">Select First Image</string>
+    <string name="second_img">Select Second Image</string>
+    <string name="result">Result will be here...</string>
+    <string name="get_result">Get Result</string>
+    <string name="ok">Ok</string>
+    <string name="add_image_first">Please add images first!</string>
+    <string name="result_is">The result is :</string>
+    <string name="loading">Loading...</string>
+    <string name="msg">Wait while loading...</string>
+</resources>
