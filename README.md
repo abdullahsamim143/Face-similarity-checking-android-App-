@@ -1,5 +1,5 @@
-# faceLibrary
-Face similarity checking android App 
+
+# Face similarity checking android App 
 This is demo App for face similarity checking. 
 
 
